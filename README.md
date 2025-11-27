@@ -21,10 +21,7 @@ A lightweight example blog application built with Flask. This project demonstrat
 - Create, edit, delete posts (Markdown supported)
 - Categories and tags for posts
 - Comment system (optional moderation)
-- Basic admin pages for site management
-- Environment-variable-based configuration and database migrations
 
-> Note: The exact features available depend on the repository code. This README is a general template. I can inspect the repository and tailor this README to reflect exact routes, commands, and files if you’d like.
 
 ## Tech Stack
 - Python + Flask
